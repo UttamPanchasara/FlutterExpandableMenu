@@ -1,10 +1,11 @@
 # flutter_expandable_menu
-![Download](https://img.shields.io/badge/flutter_floating_menu-0.0.1-blue.svg)
+[![Download](https://img.shields.io/badge/flutter_expandable_menu-0.0.1-blue.svg)](https://pub.dartlang.org/packages/flutter_expandable_menu)
 
 A new Flutter package which helps developers in creating Expandable Menu.
 
 ## Getting Started
-
+|         With Dark Background            |        Transparent Background            |
+|-----------------------------------------|------------------------------------------|
 | <img src="https://github.com/UttamPanchasara/FlutterExpandableMenu/blob/master/gif/menu_1.gif" height="400" alt="Screenshot"/> | <img src="https://github.com/UttamPanchasara/FlutterExpandableMenu/blob/master/gif/menu_2.gif" height="400" alt="Screenshot"/> |
 
 ## Usage
