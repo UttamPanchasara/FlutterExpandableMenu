@@ -5,7 +5,7 @@ A new Flutter package which helps developers in creating Expandable Menu.
 
 ## Getting Started
 
-| <img src="https://github.com/UttamPanchasara/Flutter-Expandable-Menu/blob/master/gif/menu_1.gif" height="400" alt="Screenshot"/> | <img src="https://github.com/UttamPanchasara/Flutter-Expandable-Menu/blob/master/gif/menu_2.gif" height="400" alt="Screenshot"/> |
+| <img src="https://github.com/UttamPanchasara/FlutterExpandableMenu/blob/master/gif/menu_1.gif" height="400" alt="Screenshot"/> | <img src="https://github.com/UttamPanchasara/FlutterExpandableMenu/blob/master/gif/menu_2.gif" height="400" alt="Screenshot"/> |
 
 ## Usage
 
