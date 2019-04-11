@@ -36,7 +36,7 @@ In order to use Expandable Menu Widget in your Application you will have to **Pu
                   style: TextStyle(color: Colors.black),
                 ),
               ),
-              CircularMenu(
+              FlutterExpandableMenu(
                 menuList: floatMenuList,
                 callback: this,
                 backgroundColor: Colors.transparent,
